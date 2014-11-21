@@ -14,6 +14,17 @@
 		76C7A2671A1F3278004AF34F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2661A1F3278004AF34F /* Images.xcassets */; };
 		76C7A26A1A1F3278004AF34F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2681A1F3278004AF34F /* LaunchScreen.xib */; };
 		76C7A2761A1F3278004AF34F /* MyBookTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C7A2751A1F3278004AF34F /* MyBookTests.m */; };
+		76C7A2801A1F3286004AF34F /* backGround.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A27F1A1F3286004AF34F /* backGround.jpg */; };
+		76C7A2841A1F3389004AF34F /* user3-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2811A1F3389004AF34F /* user3-512.png */; };
+		76C7A2851A1F3389004AF34F /* user2-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2821A1F3389004AF34F /* user2-512.png */; };
+		76C7A2861A1F3389004AF34F /* user1-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2831A1F3389004AF34F /* user1-512.png */; };
+		76C7A2881A1F356C004AF34F /* mario.ico in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2871A1F356C004AF34F /* mario.ico */; };
+		76C7A2A71A1F537E004AF34F /* image0.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2A11A1F537E004AF34F /* image0.png */; };
+		76C7A2A81A1F537E004AF34F /* Image2.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2A21A1F537E004AF34F /* Image2.png */; };
+		76C7A2A91A1F537E004AF34F /* Image3.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2A31A1F537E004AF34F /* Image3.png */; };
+		76C7A2AA1A1F537E004AF34F /* Image4.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2A41A1F537E004AF34F /* Image4.png */; };
+		76C7A2AB1A1F537E004AF34F /* Image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2A51A1F537E004AF34F /* Image1.png */; };
+		76C7A2AC1A1F537E004AF34F /* Image5.png in Resources */ = {isa = PBXBuildFile; fileRef = 76C7A2A61A1F537E004AF34F /* Image5.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +51,17 @@
 		76C7A26F1A1F3278004AF34F /* MyBookTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyBookTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		76C7A2741A1F3278004AF34F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		76C7A2751A1F3278004AF34F /* MyBookTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyBookTests.m; sourceTree = "<group>"; };
+		76C7A27F1A1F3286004AF34F /* backGround.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backGround.jpg; sourceTree = "<group>"; };
+		76C7A2811A1F3389004AF34F /* user3-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user3-512.png"; sourceTree = "<group>"; };
+		76C7A2821A1F3389004AF34F /* user2-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user2-512.png"; sourceTree = "<group>"; };
+		76C7A2831A1F3389004AF34F /* user1-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user1-512.png"; sourceTree = "<group>"; };
+		76C7A2871A1F356C004AF34F /* mario.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = mario.ico; sourceTree = "<group>"; };
+		76C7A2A11A1F537E004AF34F /* image0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image0.png; sourceTree = "<group>"; };
+		76C7A2A21A1F537E004AF34F /* Image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image2.png; sourceTree = "<group>"; };
+		76C7A2A31A1F537E004AF34F /* Image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image3.png; sourceTree = "<group>"; };
+		76C7A2A41A1F537E004AF34F /* Image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image4.png; sourceTree = "<group>"; };
+		76C7A2A51A1F537E004AF34F /* Image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image1.png; sourceTree = "<group>"; };
+		76C7A2A61A1F537E004AF34F /* Image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image5.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +118,17 @@
 		76C7A2591A1F3278004AF34F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				76C7A2A11A1F537E004AF34F /* image0.png */,
+				76C7A2A21A1F537E004AF34F /* Image2.png */,
+				76C7A2A31A1F537E004AF34F /* Image3.png */,
+				76C7A2A41A1F537E004AF34F /* Image4.png */,
+				76C7A2A51A1F537E004AF34F /* Image1.png */,
+				76C7A2A61A1F537E004AF34F /* Image5.png */,
+				76C7A2871A1F356C004AF34F /* mario.ico */,
+				76C7A2811A1F3389004AF34F /* user3-512.png */,
+				76C7A2821A1F3389004AF34F /* user2-512.png */,
+				76C7A2831A1F3389004AF34F /* user1-512.png */,
+				76C7A27F1A1F3286004AF34F /* backGround.jpg */,
 				76C7A25A1A1F3278004AF34F /* Info.plist */,
 				76C7A25B1A1F3278004AF34F /* main.m */,
 			);
@@ -199,9 +232,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76C7A2A81A1F537E004AF34F /* Image2.png in Resources */,
+				76C7A2A91A1F537E004AF34F /* Image3.png in Resources */,
+				76C7A2851A1F3389004AF34F /* user2-512.png in Resources */,
+				76C7A2861A1F3389004AF34F /* user1-512.png in Resources */,
+				76C7A2AA1A1F537E004AF34F /* Image4.png in Resources */,
+				76C7A2881A1F356C004AF34F /* mario.ico in Resources */,
 				76C7A2651A1F3278004AF34F /* Main.storyboard in Resources */,
+				76C7A2AC1A1F537E004AF34F /* Image5.png in Resources */,
+				76C7A2801A1F3286004AF34F /* backGround.jpg in Resources */,
 				76C7A26A1A1F3278004AF34F /* LaunchScreen.xib in Resources */,
 				76C7A2671A1F3278004AF34F /* Images.xcassets in Resources */,
+				76C7A2A71A1F537E004AF34F /* image0.png in Resources */,
+				76C7A2841A1F3389004AF34F /* user3-512.png in Resources */,
+				76C7A2AB1A1F537E004AF34F /* Image1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
